@@ -1,6 +1,6 @@
 /* Navigation Bar */
 .navbar ul li a {
-  background-color: #fff;
+  background-color: #333;
   font-size: 1.2em;
   padding: 1em;
   text-align: center;
@@ -27,7 +27,7 @@
 
 /* Main Content */
 main-content {
-  padding-top: 5em;
+  padding-top: 5em; /* To prevent content from being hidden behind the fixed navbar */
 }
 
 main section {
