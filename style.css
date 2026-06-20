@@ -1,5 +1,5 @@
 /* Navigation Bar */
-.navbar ul li a {
+.navbar {
   background-color: #333;
   font-size: 1.2em;
   padding: 1em;
@@ -10,7 +10,7 @@
   z-index: 1000;
 }
 
-.navbar ul li {
+.navbar ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -26,7 +26,7 @@
 }
 
 /* Main Content */
-main-content {
+main {
   padding-top: 5em;
 }
 
